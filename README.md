@@ -185,13 +185,13 @@ We welcome additions, updates, and benchmark contributions from the community!
 
 ---
 
-## 💖 Support & Sponsorship
+## 💖 Support
 
-If this curated repository saved you hours of solver benchmarking or helped your team architect an optimization pipeline, please consider supporting the project:
+A huge thank you to all the operations research practitioners, developers, and researchers exploring and using this repository! If you find this curated guide helpful, please consider supporting the project:
 
-- ⭐ **Star this repository** to improve discoverability across GitHub.
-- 📢 **Share with your colleagues** on LinkedIn, X/Twitter, and OR forums.
-- ☕ **Sponsor on GitHub Sponsors**: Back continuous maintenance and updates via [GitHub Sponsors](https://github.com/sponsors/ishandutta2007).
+- ⭐ **Star this repository** to help others discover it.
+- 🍴 **Fork & Share** it with your team, colleagues, or community on LinkedIn, X/Twitter, and OR forums.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and continuous updates on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
 
 <p align="center">
   <a href="https://github.com/sponsors/ishandutta2007">
@@ -201,9 +201,8 @@ If this curated repository saved you hours of solver benchmarking or helped your
 
 ---
 
-## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Constraint-Solving-Optimization&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Constraint-Solving-Optimization&Date)
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Constraint-Solving-Optimization&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Constraint-Solving-Optimization&type=date&legend=top-left)
 
 ---
 
