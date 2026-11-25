@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Constraint-Solving-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Constraint-Solving-Optimization?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Constraint-Solving-Optimization/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Constraint-Solving-Optimization?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Constraint-Solving-Optimization/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Constraint-Solving-Optimization?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Constraint-Solving-Optimization/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Constraint-Solving-Optimization?style=flat-square" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Constraint-Solving-Optimization/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
@@ -79,83 +79,83 @@ Below is a curated comparison of leading SaaS products and cloud-hosted optimiza
 
 ## 💻 Open-Source GitHub Projects
 
-All open-source repositories below are verified active projects, sorted in **descending order by GitHub Stars Count**. Each entry features an official social star badge directly linking to that repository's stargazers page.
+All open-source repositories below are verified active projects, sorted in **descending order by GitHub_Stars_Count**. Each entry features an official social Stars_Badge directly linking to that repository's stargazers page.
 
 ### 🏆 High-Star Flagships & Modeling Frameworks
 
-1. **[bherbruck/solvecraft](https://github.com/bherbruck/solvecraft)** [![GitHub stars](https://img.shields.io/github/stars/bherbruck/solvecraft?style=social&color=white)](https://github.com/bherbruck/solvecraft/stargazers)  
+1. **[bherbruck/solvecraft](https://github.com/bherbruck/solvecraft)** [![GitHub_Stars](https://img.shields.io/github/stars/bherbruck/solvecraft?style=social&color=white)](https://github.com/bherbruck/solvecraft/stargazers)  
    Modern open-source constraint solving and combinatorial optimization toolkit engineered to streamline problem formulation, solver execution, and interactive graph exploration.
 
-2. **[google/or-tools](https://github.com/google/or-tools)** [![GitHub stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)  
+2. **[google/or-tools](https://github.com/google/or-tools)** [![GitHub_Stars](https://img.shields.io/github/stars/google/or-tools?style=social&color=white)](https://github.com/google/or-tools/stargazers)  
    Google's premier open-source suite for combinatorial optimization. Features the industry-standard `CP-SAT` constraint programming solver, vehicle routing (`VRP`), network flow algorithms, and linear solver wrappers (C++, Python, Java, C#).
 
-3. **[cvxpy/cvxpy](https://github.com/cvxpy/cvxpy)** [![GitHub stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers)  
+3. **[cvxpy/cvxpy](https://github.com/cvxpy/cvxpy)** [![GitHub_Stars](https://img.shields.io/github/stars/cvxpy/cvxpy?style=social&color=white)](https://github.com/cvxpy/cvxpy/stargazers)  
    Python-embedded domain-specific language for disciplined convex optimization. Transforms high-level mathematical formulas automatically into standard conic forms for quadratic and semidefinite solvers.
 
-4. **[Pyomo/pyomo](https://github.com/Pyomo/pyomo)** [![GitHub stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers)  
+4. **[Pyomo/pyomo](https://github.com/Pyomo/pyomo)** [![GitHub_Stars](https://img.shields.io/github/stars/Pyomo/pyomo?style=social&color=white)](https://github.com/Pyomo/pyomo/stargazers)  
    Comprehensive Python-based algebraic modeling language (AML) developed by Sandia National Laboratories for formulating, analyzing, and solving LP, MILP, MINLP, and stochastic optimization models.
 
-5. **[coin-or/pulp](https://github.com/coin-or/pulp)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers)  
+5. **[coin-or/pulp](https://github.com/coin-or/pulp)** [![GitHub_Stars](https://img.shields.io/github/stars/coin-or/pulp?style=social&color=white)](https://github.com/coin-or/pulp/stargazers)  
    Clean, easy-to-use Python linear programming modeler that generates MPS or LP files and seamlessly calls HiGHS, CBC, GLPK, Gurobi, and CPLEX.
 
-6. **[jump-dev/JuMP.jl](https://github.com/jump-dev/JuMP.jl)** [![GitHub stars](https://img.shields.io/github/stars/jump-dev/JuMP.jl?style=social&color=white)](https://github.com/jump-dev/JuMP.jl/stargazers)  
+6. **[jump-dev/JuMP.jl](https://github.com/jump-dev/JuMP.jl)** [![GitHub_Stars](https://img.shields.io/github/stars/jump-dev/JuMP.jl?style=social&color=white)](https://github.com/jump-dev/JuMP.jl/stargazers)  
    High-performance modeling language for mathematical optimization embedded in Julia. Achieves near-C speed during model formulation with native interfaces to 50+ linear, conic, and nonlinear solvers.
 
-7. **[casadi/casadi](https://github.com/casadi/casadi)** [![GitHub stars](https://img.shields.io/github/stars/casadi/casadi?style=social&color=white)](https://github.com/casadi/casadi/stargazers)  
+7. **[casadi/casadi](https://github.com/casadi/casadi)** [![GitHub_Stars](https://img.shields.io/github/stars/casadi/casadi?style=social&color=white)](https://github.com/casadi/casadi/stargazers)  
    Open-source tool for algorithmic differentiation and numerical optimization suited for optimal control, nonlinear programming, and dynamic system parameter estimation.
 
 ---
 
 ### ⚡ High-Performance Solvers (MILP, LP & QP)
 
-8. **[ERGO-Code/HiGHS](https://github.com/ERGO-Code/HiGHS)** [![GitHub stars](https://img.shields.io/github/stars/ERGO-Code/HiGHS?style=social&color=white)](https://github.com/ERGO-Code/HiGHS/stargazers)  
+8. **[ERGO-Code/HiGHS](https://github.com/ERGO-Code/HiGHS)** [![GitHub_Stars](https://img.shields.io/github/stars/ERGO-Code/HiGHS?style=social&color=white)](https://github.com/ERGO-Code/HiGHS/stargazers)  
    World-leading open-source C++ optimization solver for large-scale Linear Programming (LP), Mixed-Integer Programming (MIP), and Quadratic Programming (QP). Adopted as default solver in SciPy and Julia.
 
-9. **[coin-or/Ipopt](https://github.com/coin-or/Ipopt)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/Ipopt?style=social&color=white)](https://github.com/coin-or/Ipopt/stargazers)  
+9. **[coin-or/Ipopt](https://github.com/coin-or/Ipopt)** [![GitHub_Stars](https://img.shields.io/github/stars/coin-or/Ipopt?style=social&color=white)](https://github.com/coin-or/Ipopt/stargazers)  
    Interior Point Optimizer for large-scale continuous nonlinear programming (NLP) problems under the COIN-OR initiative.
 
-10. **[coin-or/Cbc](https://github.com/coin-or/Cbc)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/Cbc?style=social&color=white)](https://github.com/coin-or/Cbc/stargazers)  
+10. **[coin-or/Cbc](https://github.com/coin-or/Cbc)** [![GitHub_Stars](https://img.shields.io/github/stars/coin-or/Cbc?style=social&color=white)](https://github.com/coin-or/Cbc/stargazers)  
     Coin-or branch and cut (CBC) is a mature, production-proven open-source Mixed-Integer Linear Programming (MILP) solver written in C++.
 
-11. **[scipopt/scip](https://github.com/scipopt/scip)** [![GitHub stars](https://img.shields.io/github/stars/scipopt/scip?style=social&color=white)](https://github.com/scipopt/scip/stargazers)  
+11. **[scipopt/scip](https://github.com/scipopt/scip)** [![GitHub_Stars](https://img.shields.io/github/stars/scipopt/scip?style=social&color=white)](https://github.com/scipopt/scip/stargazers)  
     The SCIP Optimization Suite is one of the fastest non-commercial solvers for Mixed-Integer Programming (MIP) and Mixed-Integer Nonlinear Programming (MINLP), integrating constraint integer programming and branch-cut-and-price.
 
-12. **[oxfordcontrol/Clarabel.rs](https://github.com/oxfordcontrol/Clarabel.rs)** [![GitHub stars](https://img.shields.io/github/stars/oxfordcontrol/Clarabel.rs?style=social&color=white)](https://github.com/oxfordcontrol/Clarabel.rs/stargazers)  
+12. **[oxfordcontrol/Clarabel.rs](https://github.com/oxfordcontrol/Clarabel.rs)** [![GitHub_Stars](https://img.shields.io/github/stars/oxfordcontrol/Clarabel.rs?style=social&color=white)](https://github.com/oxfordcontrol/Clarabel.rs/stargazers)  
     Blazing-fast interior-point numerical solver written in Rust for convex optimization problems involving linear, quadratic, second-order cone, and semidefinite constraints.
 
-13. **[coin-or/Clp](https://github.com/coin-or/Clp)** [![GitHub stars](https://img.shields.io/github/stars/coin-or/Clp?style=social&color=white)](https://github.com/coin-or/Clp/stargazers)  
+13. **[coin-or/Clp](https://github.com/coin-or/Clp)** [![GitHub_Stars](https://img.shields.io/github/stars/coin-or/Clp?style=social&color=white)](https://github.com/coin-or/Clp/stargazers)  
     COIN-OR Linear Programming (CLP) simplex solver designed for high-throughput continuous linear optimization.
 
 ---
 
 ### 🚚 Logistics, Scheduling & Routing Engines (VRP)
 
-14. **[VROOM-Project/vroom](https://github.com/VROOM-Project/vroom)** [![GitHub stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers)  
+14. **[VROOM-Project/vroom](https://github.com/VROOM-Project/vroom)** [![GitHub_Stars](https://img.shields.io/github/stars/VROOM-Project/vroom?style=social&color=white)](https://github.com/VROOM-Project/vroom/stargazers)  
     Ultra-fast open-source Vehicle Routing Problem (VRP) engine in C++ solving Traveling Salesman (TSP), pickup-and-delivery, and capacity time-window routing in milliseconds. Integrates with OSRM, OpenRouteService, and Valhalla.
 
-15. **[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)** [![GitHub stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)  
+15. **[TimefoldAI/timefold-solver](https://github.com/TimefoldAI/timefold-solver)** [![GitHub_Stars](https://img.shields.io/github/stars/TimefoldAI/timefold-solver?style=social&color=white)](https://github.com/TimefoldAI/timefold-solver/stargazers)  
     Leading open-source AI constraint satisfaction and planning engine (Java, Python, Kotlin) utilizing metaheuristics (tabu search, simulated annealing) to solve employee shift rostering, vehicle routing, and bin packing.
 
 ---
 
 ### 🔬 SAT/SMT Solvers & Discrete Constraint Engines
 
-16. **[Z3Prover/z3](https://github.com/Z3Prover/z3)** [![GitHub stars](https://img.shields.io/github/stars/Z3Prover/z3?style=social&color=white)](https://github.com/Z3Prover/z3/stargazers)  
+16. **[Z3Prover/z3](https://github.com/Z3Prover/z3)** [![GitHub_Stars](https://img.shields.io/github/stars/Z3Prover/z3?style=social&color=white)](https://github.com/Z3Prover/z3/stargazers)  
     The industry-standard Satisfiability Modulo Theories (SMT) solver from Microsoft Research. Powers automated theorem proving, hardware/software formal verification, and symbolic constraint satisfaction.
 
-17. **[MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)** [![GitHub stars](https://img.shields.io/github/stars/MiniZinc/libminizinc?style=social&color=white)](https://github.com/MiniZinc/libminizinc/stargazers)  
+17. **[MiniZinc/libminizinc](https://github.com/MiniZinc/libminizinc)** [![GitHub_Stars](https://img.shields.io/github/stars/MiniZinc/libminizinc?style=social&color=white)](https://github.com/MiniZinc/libminizinc/stargazers)  
     High-level, solver-independent constraint modeling language that compiles expressive discrete decision models into FlatZinc for CP-SAT, Chuffed, Gecode, and MIP solvers.
 
-18. **[arminbiere/kissat](https://github.com/arminbiere/kissat)** [![GitHub stars](https://img.shields.io/github/stars/arminbiere/kissat?style=social&color=white)](https://github.com/arminbiere/kissat/stargazers)  
+18. **[arminbiere/kissat](https://github.com/arminbiere/kissat)** [![GitHub_Stars](https://img.shields.io/github/stars/arminbiere/kissat?style=social&color=white)](https://github.com/arminbiere/kissat/stargazers)  
     Multiple SAT Competition first-prize-winning bare-metal Boolean Satisfiability (SAT) solver written in pure C by Armin Biere.
 
-19. **[arminbiere/cadical](https://github.com/arminbiere/cadical)** [![GitHub stars](https://img.shields.io/github/stars/arminbiere/cadical?style=social&color=white)](https://github.com/arminbiere/cadical/stargazers)  
+19. **[arminbiere/cadical](https://github.com/arminbiere/cadical)** [![GitHub_Stars](https://img.shields.io/github/stars/arminbiere/cadical?style=social&color=white)](https://github.com/arminbiere/cadical/stargazers)  
     High-performance incremental SAT solver designed with inprocessing techniques and certified UNSAT proof logging (DRAT).
 
-20. **[Gecode/gecode](https://github.com/Gecode/gecode)** [![GitHub stars](https://img.shields.io/github/stars/Gecode/gecode?style=social&color=white)](https://github.com/Gecode/gecode/stargazers)  
+20. **[Gecode/gecode](https://github.com/Gecode/gecode)** [![GitHub_Stars](https://img.shields.io/github/stars/Gecode/gecode?style=social&color=white)](https://github.com/Gecode/gecode/stargazers)  
     Open, efficient C++ environment for developing constraint-based systems and finite domain constraint programming.
 
-21. **[chuffed/chuffed](https://github.com/chuffed/chuffed)** [![GitHub stars](https://img.shields.io/github/stars/chuffed/chuffed?style=social&color=white)](https://github.com/chuffed/chuffed/stargazers)  
+21. **[chuffed/chuffed](https://github.com/chuffed/chuffed)** [![GitHub_Stars](https://img.shields.io/github/stars/chuffed/chuffed?style=social&color=white)](https://github.com/chuffed/chuffed/stargazers)  
     State-of-the-art C++ constraint satisfaction solver employing lazy clause generation (LCG) to bridge finite-domain propagation with SAT conflict clause learning.
 
 ---
@@ -179,7 +179,7 @@ We welcome additions, updates, and benchmark contributions from the community!
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-solver-name`).
 3. 📝 **Add your solver or platform** to the appropriate section following the established format:
    - For SaaS: include name, description, specific starting price, free tier limit, and company scale.
-   - For Open-Source: include repo link, social star badge linking to stargazers, and concise summary.
+   - For Open-Source: include repo link, social Stars_Badge linking to stargazers, and concise summary.
 4. 🧪 **Verify table alignment & Markdown syntax**.
 5. 🚀 **Submit a Pull Request** with a brief summary of the project.
 
